@@ -1,0 +1,11 @@
+.success input {
+
+  border: 1px solid green;
+
+}
+
+.error input {
+
+  border: 1px solid red;
+
+}
